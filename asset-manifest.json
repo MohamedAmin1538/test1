@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MohamedAmin1538.github.io/test1/static/css/main.8d2266dd.css",
+    "main.js": "/MohamedAmin1538.github.io/test1/static/js/main.26bda1e3.js",
+    "index.html": "/MohamedAmin1538.github.io/test1/index.html",
+    "main.8d2266dd.css.map": "/MohamedAmin1538.github.io/test1/static/css/main.8d2266dd.css.map",
+    "main.26bda1e3.js.map": "/MohamedAmin1538.github.io/test1/static/js/main.26bda1e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d2266dd.css",
+    "static/js/main.26bda1e3.js"
+  ]
+}
